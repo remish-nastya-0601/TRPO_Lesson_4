@@ -1,0 +1,33 @@
+﻿<Window x:Class="Black_box_test_1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Black_box_test_1"
+        mc:Ignorable="d"
+        Title="Решение квадратных уравнений" Height="450" Width="600
+        " WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Label Content="Решение уравнения вида: " HorizontalAlignment="Left" Margin="161,25,0,0" VerticalAlignment="Top" Height="34"/>
+        <Image Margin="322,25,149,360" Source="Image1.png" Stretch="Fill"/>
+        <Label Content="Введите следующие данные:" HorizontalAlignment="Left" Margin="31,86,0,0" VerticalAlignment="Top"/>
+        <Label Content="a = " HorizontalAlignment="Left" Margin="31,117,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="var_a" HorizontalAlignment="Left" Height="23" Margin="69,121,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="78"/>
+        <Label Content="b = " HorizontalAlignment="Left" Margin="248,117,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="var_b" HorizontalAlignment="Left" Height="23" Margin="286,121,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="78"/>
+        <Label Content="c = " HorizontalAlignment="Left" Margin="434,116,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="var_c" HorizontalAlignment="Left" Height="23" Margin="472,120,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="78"/>
+        <Label Content="Решение:" HorizontalAlignment="Left" Margin="31,227,0,0" VerticalAlignment="Top"/>
+        <Rectangle Fill="#FF8B84CB" HorizontalAlignment="Left" Height="51" Margin="0,162,0,0" Stroke="Black" VerticalAlignment="Top" Width="592"/>
+        <Rectangle Fill="#FF8B84CB" HorizontalAlignment="Left" Height="7" Margin="0,71,0,0" Stroke="Black" VerticalAlignment="Top" Width="592"/>
+        <Rectangle Fill="#FF8B84CB" HorizontalAlignment="Left" Height="7" Stroke="Black" VerticalAlignment="Top" Width="592"/>
+        <Label x:Name="answer_label" Content="" HorizontalAlignment="Left" Margin="109,227,0,0" VerticalAlignment="Top" Height="51" Width="283"/>
+        <Rectangle Fill="#FF8B84CB" HorizontalAlignment="Left" Height="11" Margin="0,289,0,0" Stroke="Black" VerticalAlignment="Top" Width="592"/>
+        <Label Content="Проверка:" HorizontalAlignment="Left" Margin="31,349,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="check_label" Content="" HorizontalAlignment="Left" Margin="109,349,0,0" VerticalAlignment="Top" Height="55" Width="283"/>
+        <Button Content="Вычислить" Margin="56,173,56,0" VerticalAlignment="Top" Height="30" Width="480" Click="Button_Click"/>
+        <Label Content="Дискриминант:" HorizontalAlignment="Left" Margin="31,320,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="discr" Content="" HorizontalAlignment="Left" Margin="130,320,0,0" VerticalAlignment="Top" Height="26" Width="283"/>
+
+    </Grid>
+</Window>
