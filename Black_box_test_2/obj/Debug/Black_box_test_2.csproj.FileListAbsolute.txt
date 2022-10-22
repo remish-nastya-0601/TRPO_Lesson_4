@@ -1,0 +1,15 @@
+C:\Users\remis\source\repos\Black_box_test_2\bin\Debug\Black_box_test_2.exe.config
+C:\Users\remis\source\repos\Black_box_test_2\bin\Debug\Black_box_test_2.exe
+C:\Users\remis\source\repos\Black_box_test_2\bin\Debug\Black_box_test_2.pdb
+C:\Users\remis\source\repos\Black_box_test_2\obj\Debug\Black_box_test_2.csprojAssemblyReference.cache
+C:\Users\remis\source\repos\Black_box_test_2\obj\Debug\MainWindow.g.cs
+C:\Users\remis\source\repos\Black_box_test_2\obj\Debug\App.g.cs
+C:\Users\remis\source\repos\Black_box_test_2\obj\Debug\Black_box_test_2_MarkupCompile.cache
+C:\Users\remis\source\repos\Black_box_test_2\obj\Debug\Black_box_test_2_MarkupCompile.lref
+C:\Users\remis\source\repos\Black_box_test_2\obj\Debug\MainWindow.baml
+C:\Users\remis\source\repos\Black_box_test_2\obj\Debug\Black_box_test_2.g.resources
+C:\Users\remis\source\repos\Black_box_test_2\obj\Debug\Black_box_test_2.Properties.Resources.resources
+C:\Users\remis\source\repos\Black_box_test_2\obj\Debug\Black_box_test_2.csproj.GenerateResource.cache
+C:\Users\remis\source\repos\Black_box_test_2\obj\Debug\Black_box_test_2.csproj.CoreCompileInputs.cache
+C:\Users\remis\source\repos\Black_box_test_2\obj\Debug\Black_box_test_2.exe
+C:\Users\remis\source\repos\Black_box_test_2\obj\Debug\Black_box_test_2.pdb
